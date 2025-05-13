@@ -1,4 +1,5 @@
-[Video Demonstration](https://cdn.discordapp.com/attachments/1024385339156086816/1371696775185825853/2025-05-12_22-51-31.mp4?ex=682413ac&is=6822c22c&hm=fde3af8dcd4661ded511312e49e4db3995cf23627a34f01a07d1237f1e1c210e&)
+https://github.com/user-attachments/assets/75331423-35bc-4f99-9fe5-6b5434950bc8
+
 # VIBE
 Craft your story's vibe. VIBE stands for Visual Interactive Book Engine. It is a Java Swing Framework designed to quickly whip up truly immersive stories within a single class, so you don't have to worry about all the technical fluff - just the story.
 
